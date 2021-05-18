@@ -33,4 +33,4 @@ Zach Duty, Michael Francisco, Matt Reisdorf
 N/A
 
 ## Screenshot
-![Screenshot](./assets/img/screenshot.png)
+![Screenshot](./public/assets/img/screenshot.png)
