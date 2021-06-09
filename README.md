@@ -1,3 +1,6 @@
+## Live Deploy
+https://blog-site-14.herokuapp.com/
+
 # 14-Tech-Blog
 
 # Contact
@@ -5,32 +8,18 @@ Vygoth
 JeremyJoanet@Protonmail.com
 
 ## Description
-A webapp that allows you to create an account, log in, view blog posts, create blog posts, and comment on posts.
+A webapp that allows you to create an account, log in, view blog posts, create blog posts, and comment on posts. This application was built using an MVC format, with handlebars to handle the html render. Users must be logged in to comment, post or view the dashboard. Data from this site is stored via Jaws_DB on Heroku with MySQL as it's database. 
 
 ## Table of Contents
 - [Usage](#Usage)
-- [Installation](#Dependancies)
-- [Testing](#Testing)
 - [Credits](#Credits)
-- [License](#License)
-- [Contributing](#Contributing)
-- [License Information](#LicenseInfo)
 - [Screenshot](#Screenshot)
 
 ## Usage
-This application is deployed on Heroku, if you are accessing it through github. Install the files, run NPM install in terminal to install packages. Run Node server.js in terminal to launch server. Open web browser at URL <localhost:3002> to load application.
-
-## Dependancies
-NPM Install
-
-## Testing
-N/A
+This application features a live deploy link found at the top of this README.
 
 ## Credits
 Zach Duty, Michael Francisco, Matt Reisdorf
-
-## Contributing
-N/A
 
 ## Screenshot
 ![Screenshot](./public/assets/img/screenshot.png)
